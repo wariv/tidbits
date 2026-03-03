@@ -1,0 +1,12 @@
+app
+internal
+corp
+local
+prod
+dev
+stage
+test
+svc
+uat
+old
+demo

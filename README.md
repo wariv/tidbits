@@ -1,2 +1,2 @@
 # tidbits
-Things I might use
+Things I might use.
